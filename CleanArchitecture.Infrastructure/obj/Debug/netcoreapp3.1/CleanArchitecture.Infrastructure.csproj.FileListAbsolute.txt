@@ -1,0 +1,8 @@
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.deps.json
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.dll
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CleanArchitecture.Infrastructure.pdb

@@ -1,0 +1,9 @@
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\bin\Debug\netcoreapp3.1\CleanArchitecture.Specification.deps.json
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\bin\Debug\netcoreapp3.1\CleanArchitecture.Specification.dll
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\bin\Debug\netcoreapp3.1\CleanArchitecture.Specification.pdb
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\obj\Debug\netcoreapp3.1\CleanArchitecture.Specification.csprojAssemblyReference.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\obj\Debug\netcoreapp3.1\CleanArchitecture.Specification.csproj.CoreCompileInputs.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\obj\Debug\netcoreapp3.1\CleanArchitecture.Specification.AssemblyInfoInputs.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\obj\Debug\netcoreapp3.1\CleanArchitecture.Specification.AssemblyInfo.cs
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\obj\Debug\netcoreapp3.1\CleanArchitecture.Specification.dll
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Specification\obj\Debug\netcoreapp3.1\CleanArchitecture.Specification.pdb

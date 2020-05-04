@@ -1,0 +1,8 @@
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\netcoreapp3.1\CleanArchitecture.Persistance.deps.json
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\netcoreapp3.1\CleanArchitecture.Persistance.dll
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\bin\Debug\netcoreapp3.1\CleanArchitecture.Persistance.pdb
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\netcoreapp3.1\CleanArchitecture.Persistance.csproj.CoreCompileInputs.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\netcoreapp3.1\CleanArchitecture.Persistance.AssemblyInfoInputs.cache
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\netcoreapp3.1\CleanArchitecture.Persistance.AssemblyInfo.cs
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\netcoreapp3.1\CleanArchitecture.Persistance.dll
+D:\Personal\Git\CleanArchitecture\CleanArchitecture.Persistance\obj\Debug\netcoreapp3.1\CleanArchitecture.Persistance.pdb
